@@ -1,0 +1,15 @@
+<script src="https://live.gobiapp.com/gwi.js" async onload="gobi.discover()"></script>
+<div class="gobi-stories"
+  data-gobi-stories="dh2hj 6wykx"
+  data-gobi-bubble-size="150px"
+  data-gobi-animated-bubble="true"
+  data-gobi-show-play-icon="true"
+  data-gobi-disable-shadow-dom="false"
+  data-gobi-inherit-text-font-family="true"
+  data-gobi-align="left"
+  data-gobi-auto-start-with-sound="true"
+  data-gobi-use-media-proxy="true"
+  data-gobi-media-proxy-host="live.gobiapp.com/gwi-media"
+  data-gobi-api-base-url="https://live.gobiapp.com/gwi-api"
+  >
+</div>
